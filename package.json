@@ -1,0 +1,22 @@
+{
+  "name": "sudoku",
+  "version": "1.0.0",
+  "description": "This program solves a Sudoku puzzle.",
+  "main": "app.js",
+  "devDependencies": {
+      "chai": "*",
+      "mocha": "*"
+  },
+  "scripts": {
+    "test": "node helpers_test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "None yet"
+  },
+  "keywords": [
+    "sudoku"
+  ],
+  "author": "Rich Vogt",
+  "license": "MIT"
+}
