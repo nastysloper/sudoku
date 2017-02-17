@@ -1,3 +1,3 @@
-module.exports = function(message) {
-    console.log(message);
+exports.place = function () {
+    return 5;
 }
