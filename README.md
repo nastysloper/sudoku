@@ -40,3 +40,11 @@ remove random with simple limits (let only 0-1 rows or columns be empty)
 remove random with 1-level check (this is the way to go)
 
 Random with one-level check: only remove a cell if it can be solved with the 1-level check. That is, only one number can occupy that cell and satisfy the constraints of the puzzle.
+
+2 March 2017
+
+I can produce 9 rows, each row containing the numbers 1 through 9.
+Next step is to add a check to ensure uniqueness in the column as well.
+After that check for uniqueness in the grid.
+
+
